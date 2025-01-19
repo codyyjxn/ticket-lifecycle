@@ -30,25 +30,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+STEP 1 : A critical issue has been reported in the Accounting department where two users are unable to access the new Adobe software, preventing them from opening essential files and performing crucial tasks. The affected users have attempted to restart the application, but the problem persists, significantly impacting their daily operations. The IT team has prioritized this issue and is focusing on updating the Adobe software to the latest version to resolve the file access problem.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1512" alt="User Ticket creating" src="https://github.com/user-attachments/assets/c6b7d717-de64-4848-8726-ec594593c92c" />
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+STEP 2 : To log into the administrator page using the agent account Cori, open your web browser, navigate to the ticketing system's login page, and enter Cori's credentials. Once logged in, locate the ticket for the Accounting department regarding the Adobe software issue and verify that it is marked as "Sev-C," assigned to the "Support" department, and correctly assigned to Cori. Ensure all details, including the Service Level Agreement (SLA), are accurate and document any necessary changes in the ticket notes for future reference. The underlined are the important things that need to be set so anyone can see those important details. 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1512" alt="Screenshot 2025-01-18 at 2 32 50 PM" src="https://github.com/user-attachments/assets/0bda41d7-e38e-41fc-8ba7-ba26fa9e9ebb" />
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+STEP 3 : 
+Cori was assigned as the agent to assist customers experiencing issues accessing the Adobe software. During the call, Cori advised the users to restart their computers as a potential solution. After lunch, the customers called back to inform Cori that the restart was successful and they were now able to access Adobe without any problems. Cori left notes so that anyone can see this after and will be able to see how this issue was resolved. Cori then closed this issue and left another note on how it was solved. 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1512" alt="Screenshot 2025-01-18 at 2 39 45 PM" src="https://github.com/user-attachments/assets/2cf3718b-8974-43c1-8824-1b695c4ec19b" />
+  <img width="1512" alt="Screenshot 2025-01-18 at 2 44 56 PM" src="https://github.com/user-attachments/assets/a0cc6291-dea4-4724-9891-8eed183fb4e9" />
 </p>
+
 <br />
